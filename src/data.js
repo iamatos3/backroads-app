@@ -24,19 +24,19 @@ export const services = [
     id: 1,
     icon: 'fas fa-wallet fa-fw',
     title: 'saving money',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.'
+    text: 'All travel itineraries come at a competitive and affordable price point against all competitors.'
   },
   { 
     id: 2,
     icon: 'fas fa-tree fa-fw',
     title: 'endless hiking',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.'
+    text: 'Looking for an endless adventure? We can accommodate any duration that will fulfill your desire.'
   },
   { 
     id: 3,
     icon: 'fas fa-socks fa-fw',
     title: 'amazing comfort',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.'
+    text: 'Outstanding comfort and safety are guaranteed with the best itineraries we have to offer.'
   },
 ];
 
@@ -46,7 +46,7 @@ export const tours = [
     image: tour1,
     date: 'August 26th, 2023',
     title: 'Tibet Adventure',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Going to Tibet offers an unforgettable journey to the "Roof of the World," with stunning Himalayan landscapes, ancient Buddhist temples, and a unique cultural experience shaped by its remote location and spiritual traditions.',
     location: 'China',
     duration: 6,
     cost: 2100,
@@ -55,8 +55,8 @@ export const tours = [
     id: 2,
     image: tour2,
     date: 'October 1th, 2022',
-    title: 'Tibet Adventure',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    title: 'Bali Adventure',
+    info: 'Going to Bali in Indonesia offers a unique and immersive cultural experience, with beautiful beaches, vibrant markets, delicious food, and a rich tradition of art, dance, and spirituality.',
     location: 'Indonesia',
     duration: 11,
     cost: 1400,
@@ -66,7 +66,7 @@ export const tours = [
     image: tour3,
     date: 'September 15th, 2022',
     title: 'Explore Hong Kong',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Going to Hong Kong provides a bustling and vibrant city experience, with a blend of modern skyscrapers, traditional temples, and a thriving food and shopping scene.',
     location: 'Hong Kong',
     duration: 8,
     cost: 5000,
@@ -76,7 +76,7 @@ export const tours = [
     image: tour4,
     date: 'December 5th, 2022',
     title: 'Kenya Highlights',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Going to Kenya offers the chance to see diverse wildlife on a safari, experience unique cultures and traditions, and explore stunning natural landscapes from mountains to beaches.',
     location: 'Kenya',
     duration: 20,
     cost: 3300,
@@ -86,7 +86,7 @@ export const tours = [
     image: tour5,
     date: 'July 7th, 2022',
     title: 'South African Extravaganza',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Going to South Africa offers a diverse and culturally rich experience, with opportunities for wildlife safaris, breathtaking landscapes, historical sites, and vibrant cities.',
     location: 'South Africa',
     duration: 14,
     cost: 4500,
@@ -96,7 +96,7 @@ export const tours = [
     image: tour6,
     date: 'January 10th, 2021',
     title: 'Taj Mahal',
-    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    info: 'Visiting the Taj Mahal in Agra, India, is an awe-inspiring experience where one can admire the intricate details of the white marble mausoleum built by the Mughal emperor Shah Jahan in memory of his wife, and it is best to arrive early in the morning during the cooler months between November and February to avoid crowds and heat.',
     location: 'India',
     duration: 7,
     cost: 3800,

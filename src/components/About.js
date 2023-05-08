@@ -17,14 +17,10 @@ const About = () => {
         <article className="about-info">
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            We're constantly searching and gathering the best intel to provide our customers that in search of making their wanderlust dreams come true at an affordable cost.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Our goals remain to offer the safest travel itineraries to accommodate your personal needs with any destination you select.
           </p>
           <a href="#about" className="btn">read more</a>
         </article>
